@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica1.EliminarUsuario"
+             BackgroundColor="#E8E5E5">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+            </Style>
+
+            <Style TargetType="Entry">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+            </Style>
+
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="CornerRadius" Value="8"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Padding="30">
+        <Label Text="Introduce el código del usuario a eliminar" 
+               HorizontalOptions="CenterAndExpand" />
+
+        <Entry x:Name="CodigoUsuarioEntry" 
+               Placeholder="Código de Usuario"  />
+
+        <Button x:Name="EliminarButton" 
+                Text="Eliminar Usuario" 
+                Clicked="OnEliminarButtonClicked"/>
+    </StackLayout>
+
+</ContentPage>
+

@@ -1,0 +1,85 @@
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.csproj.AssemblyReference.cache
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/AgregarNuevosUsuario.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.AssemblyInfoInputs.cache
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.AssemblyInfo.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.csproj.CoreCompileInputs.cache
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.dll
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/refint/Practica1.dll
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.pdb
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.deps.json
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.dll
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/ref/Practica1.dll
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.pdb
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/AltaNuevasVisitas.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/DetalleUsuario.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ListadoCentro.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.deps.json
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.dll
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/ref/Practica1.dll
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.pdb
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.csproj.AssemblyReference.cache
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/AgregarNuevosUsuario.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/AltaNuevasVisitas.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/EliminarUsuario.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ListadoCentro.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/VisitasPorFechas.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.AssemblyInfoInputs.cache
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.AssemblyInfo.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.csproj.CoreCompileInputs.cache
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.dll
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/refint/Practica1.dll
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.pdb
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ModificarUsuario.xaml.g.cs
+/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ListaVisitas.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.deps.json
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.dll
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/ref/Practica1.dll
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.pdb
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.csproj.AssemblyReference.cache
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/AgregarNuevosUsuario.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/AltaNuevasVisitas.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/EliminarUsuario.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ListadoCentro.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ListaVisitas.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ModificarUsuario.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/VisitasPorFechas.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.AssemblyInfoInputs.cache
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.AssemblyInfo.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.csproj.CoreCompileInputs.cache
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.dll
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/refint/Practica1.dll
+/Users/administrador/Desktop/Proyecto Xamarin copia/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.pdb
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.deps.json
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.dll
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/ref/Practica1.dll
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/bin/Debug/netstandard2.0/Practica1.pdb
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.csproj.AssemblyReference.cache
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/AgregarNuevosUsuario.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/AltaNuevasVisitas.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/EliminarUsuario.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ListadoCentro.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ListaVisitas.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/ModificarUsuario.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/VisitasPorFechas.xaml.g.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.AssemblyInfoInputs.cache
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.AssemblyInfo.cs
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.csproj.CoreCompileInputs.cache
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.dll
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/refint/Practica1.dll
+/Users/administrador/Desktop/Proyecto Xamarin copia 2/Practica1/Practica1/Practica1/Practica1/obj/Debug/netstandard2.0/Practica1.pdb

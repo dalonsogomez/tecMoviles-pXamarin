@@ -1,0 +1,54 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica1.AgregarNuevosUsuario"
+             BackgroundColor="#E8E5E5">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+            </Style>
+
+            <Style TargetType="Entry">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+            </Style>
+
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="CornerRadius" Value="8"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <Label Text="Código de usuario" />
+        <Entry x:Name="CodigoUsuarioEntry" />
+
+        <Label Text="Nombre" />
+        <Entry x:Name="NombreEntry" />
+
+        <Label Text="Apellidos" />
+        <Entry x:Name="ApellidosEntry" />
+
+        <Label Text="Fecha de nacimiento" />
+        <DatePicker x:Name="FechaNacimientoPicker" />
+
+        <Label Text="Es socio" />
+        <Switch x:Name="EsSocioSwitch" />
+
+        <Label Text="Sexo" />
+        <Picker x:Name="SexoPicker" Title="Seleccione el sexo">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Masculino</x:String>
+                    <x:String>Femenino</x:String>
+                    <x:String>Otro</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Button Text="Registrar" Clicked="OnRegistrarClicked" />
+    </StackLayout>
+</ContentPage>

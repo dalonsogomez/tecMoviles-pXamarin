@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{0CD97A4A-A750-45B5-8456-BC6D1FE0839E}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.ItemProperties.Practica1.Android PreferredExecutionTarget="Android.Pixel_6_API_30" Xamarin.HotReload.DebuggerTimeoutException.Practica1.Android.HideInfoBar="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practica1/Practica1/VisitasPorFechas.xaml.cs">
+    <Files>
+      <File FileName="Practica1/Practica1/ListadoCentro.xaml.cs" Line="29" Column="2" />
+      <File FileName="Practica1/Practica1/ListadoCentro.xaml" />
+      <File FileName="Practica1/Practica1/Usuario.cs" />
+      <File FileName="Practica1/Practica1/Visita.cs" />
+      <File FileName="Practica1/Practica1/EliminarUsuario.xaml" />
+      <File FileName="Practica1/Practica1/DetalleUsuario.cs" Line="35" Column="2" />
+      <File FileName="Practica1/Practica1/AltaNuevasVisitas.xaml.cs" />
+      <File FileName="Practica1/Practica1/AltaNuevasVisitas.xaml" />
+      <File FileName="Practica1/Practica1/AgregarNuevosUsuario.xaml" />
+      <File FileName="Practica1/Practica1/AgregarNuevosUsuario.xaml.cs" />
+      <File FileName="Practica1/Practica1/CentroDeportivo.cs" />
+      <File FileName="Practica1/Practica1/App.xaml.cs" />
+      <File FileName="Practica1/Practica1/VisitasPorFechas.xaml.cs" Line="23" Column="11" />
+      <File FileName="Practica1/Practica1/VisitasPorFechas.xaml" Line="51" Column="15" />
+      <File FileName="Practica1/Practica1/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Practica1/Practica1/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Practica1/Practica1/ListaUsuarios.cs" />
+      <File FileName="Practica1/Practica1/App.xaml" />
+      <File FileName="Practica1/Practica1/ModificarUsuario.xaml" />
+      <File FileName="Practica1/Practica1/ModificarUsuario.xaml.cs" />
+      <File FileName="Practica1/Practica1/EliminarUsuario.xaml.cs" />
+      <File FileName="Practica1/Practica1/ListaVisitas.xaml" />
+      <File FileName="Practica1/Practica1/ListaVisitas.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practica1" expanded="True">
+            <Node name="Practica1" expanded="True">
+              <Node name="AgregarNuevosUsuario.xaml" expanded="True" />
+              <Node name="AltaNuevasVisitas.xaml" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ListadoCentro.xaml" expanded="True" />
+              <Node name="ListaVisitas.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="VisitasPorFechas.xaml" expanded="True">
+                <Node name="VisitasPorFechas.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_6_API_30" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/administrador/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/d9a6e8710b37cd7f16cf52eff4f772556e57cc41</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

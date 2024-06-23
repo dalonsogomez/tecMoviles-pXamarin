@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica1.MainPage"
+             BackgroundImageSource="fondo.jpeg">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="#E8E5E5"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+            </Style>
+
+            <Style TargetType="Entry">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkSalmon"/>
+            </Style>
+
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="CornerRadius" Value="8"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Orientation="Vertical" Padding="10,10,10,10">
+
+        <Image Source="pngwing.png" HeightRequest="400" VerticalOptions="Center"/>
+
+        <Label Text="CENTRO DEPORTIVO"
+               FontSize="Large"
+               VerticalOptions="CenterAndExpand" 
+               HorizontalOptions="CenterAndExpand" />
+
+        <Button Text="Alta de nuevos usuarios" 
+                Clicked="OnAgregarNuevosUsuarioClicked"/>
+
+       <Button Text="Alta de nuevas visitas" 
+                Clicked="OnAltaNuevasVisitasClicked"/>
+
+        <Button Text="Listado de usuarios" 
+                Clicked="OnListadoCentroClicked"/>
+
+        <Button Text="Ver visitas por fecha"
+        Clicked="OnVisitasPorFechasClicked" />
+
+        <Button Text="Modificar Socio" 
+        Clicked="OnModificarUsuarioClicked"/>
+
+        <Button Text="Eliminar Usuario" 
+        Clicked="OnEliminarButtonClicked"/>
+
+        
+
+    </StackLayout>
+
+</ContentPage>

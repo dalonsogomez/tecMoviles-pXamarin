@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica1.AltaNuevasVisitas"
+             Title="Alta de Nuevas Visitas"
+             BackgroundColor="#E8E5E5">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+            </Style>
+
+            <Style TargetType="Entry">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+            </Style>
+
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="CornerRadius" Value="8"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Label Text="Nuevo registro de visita" />
+
+            <Label Text="Introduce el codigo del usuario"/>
+            <Entry x:Name="entryCodigoUsuario" Placeholder="Codigo"/>
+
+            <Label Text="Introduce la visita que quieres añadir"/>
+
+            <Picker x:Name="pickerActividad"
+                    Title="Selecciona un tipo de actividad">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Yoga</x:String>
+                        <x:String>Ciclismo</x:String>
+                        <x:String>Entrenamiento Funcional</x:String>
+                        <x:String>Actividad Libre</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Label Text="Fecha"/>
+            <DatePicker x:Name="FechaVisitaPicker" />
+
+            <Button Text="Registrar visita" Clicked="AltaNuevasVisitasClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
+

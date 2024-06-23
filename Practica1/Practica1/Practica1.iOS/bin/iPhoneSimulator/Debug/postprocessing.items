@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Practica1.iOS.app/Practica1.iOS">
+      <BCSymbolMapName>Practica1.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Practica1.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>Practica1.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/administrador/Desktop/3º INFORMÁTICA/1º CUATRIMESTRE/Tecnologías Móviles/Practica1/Practica1/Practica1/Practica1.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

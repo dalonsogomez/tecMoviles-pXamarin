@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{0CD97A4A-A750-45B5-8456-BC6D1FE0839E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practica1/Practica1/ListadoCentro.xaml">
+    <Files>
+      <File FileName="Practica1/Practica1/MainPage.xaml" Line="21" Column="15" />
+      <File FileName="Practica1/Practica1/ListadoCentro.xaml" Line="15" Column="9" />
+      <File FileName="Practica1/Practica1/Usuario.cs" Line="18" Column="2" />
+      <File FileName="Practica1/Practica1/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Practica1/Practica1/DetalleUsuario.xaml.cs" Line="1" Column="1" />
+      <File FileName="Practica1/Practica1/ListaVisitas.cs" Line="1" Column="1" />
+      <File FileName="Practica1/Practica1/AltaNuevasVisitas.xaml.cs" Line="1" Column="1" />
+      <File FileName="Practica1/Practica1/AgregarNuevosUsuario.xaml.cs" Line="1" Column="1" />
+      <File FileName="Practica1/Practica1/AltaNuevasVisitas.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practica1" expanded="True">
+            <Node name="Practica1" expanded="True">
+              <Node name="AgregarNuevosUsuario.xaml" expanded="True" />
+              <Node name="AltaNuevasVisitas.xaml" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="DetalleUsuario.xaml" expanded="True" />
+              <Node name="ListadoCentro.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Practica1.Android PreferredExecutionTarget="Android.Pixel_6_API_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Practica1.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_6_API_30" />
+</Properties>

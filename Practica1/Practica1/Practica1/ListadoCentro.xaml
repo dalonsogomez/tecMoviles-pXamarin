@@ -1,0 +1,39 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica1.ListadoCentro"
+             BackgroundColor="#E8E5E5">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+            </Style>
+
+            <Style TargetType="Entry">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+            </Style>
+
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#E8E5E5"/>
+                <Setter Property="TextColor" Value="DarkRed"/>
+                <Setter Property="CornerRadius" Value="8"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <!-- Lista de usuarios -->
+        <ListView x:Name="UsuariosListView" ItemSelected="OnUsuarioSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <!-- Muestra el nombre y apellido de cada usuario -->
+                    <TextCell Text="{Binding Nombre}" Detail="{Binding Apellidos}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </StackLayout>
+
+    
+
+</ContentPage>
