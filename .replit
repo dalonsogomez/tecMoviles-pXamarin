@@ -1,0 +1,8 @@
+modules = ["java-graalvm22.3", "dotnet-7.0"]
+run = "dotnet run"
+
+[nix]
+channel = "stable-23_11"
+
+[deployment]
+run = ["sh", "-c", "dotnet run"]
